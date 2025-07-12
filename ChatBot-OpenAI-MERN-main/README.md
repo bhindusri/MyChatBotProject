@@ -135,7 +135,7 @@ FrontEnd
     npm start
 ```
 
-## Authors
+## Author
 
 - [@bhindusri](https://www.github.com/bhindusri)
 
